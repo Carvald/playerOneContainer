@@ -25,6 +25,7 @@ public class PlayerOneContainerApplication {
 			repository.save(new ThemeParkRide("Log flume", "Boat ride with plenty of splashes.", 3, 2));
 			repository.save(new ThemeParkRide("Teacups", "Spinning ride in a giant tea-cup.", 2, 4));
 		};
+		
 	}
 
 }
