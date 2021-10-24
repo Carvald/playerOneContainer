@@ -16,7 +16,8 @@ jar {
 
 group = 'com.playerone'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
+sourceCompatibility = JavaVersion.VERSION_1_7
+targetCompatibility = JavaVersion.VERSION_1_7
 
 repositories {
 	mavenCentral()
